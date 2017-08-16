@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://muhammadfariz.github.io/</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/index.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/about.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/sidebar-left.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/sidebar-right.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/single.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+<url>
+  <loc>https://muhammadfariz.github.io/blog.html</loc>
+  <lastmod>2017-08-16T08:33:17+00:00</lastmod>
+</url>
+</urlset>
